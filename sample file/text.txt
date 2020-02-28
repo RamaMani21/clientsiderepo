@@ -1,3 +1,4 @@
 hello
 
 this is sample text file in client side repository
+this is a bug fix
